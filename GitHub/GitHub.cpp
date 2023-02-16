@@ -18,6 +18,6 @@ int main()
 	printCont(s);
 	cout << "Heloo" << endl;
 	cout << "Start" << endl;
-    
+	cout << "Wrel" << endl;
 }
 
